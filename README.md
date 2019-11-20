@@ -1,6 +1,7 @@
 # Docker Raspbian Image
 
-[![Docker Build Status](https://img.shields.io/docker/build/xzaero/raspbian.svg)](https://hub.docker.com/r/xzaero/raspbian/)
+[![Docker Build Status](https://img.shields.io/docker/cloud/build/xzaero/raspbian?color=green&style=flat-square)](https://hub.docker.com/r/xzaero/raspbian/)
+[![Docker Build Status](https://img.shields.io/docker/pulls/xzaero/raspbian?style=flat-square)](https://hub.docker.com/r/xzaero/raspbian/)
 
 This docker image runs QEMU system emulation for Raspbian Lite.
 It will let you run Raspbian as if it was running on an actual Raspberry PI, including the CPU architecture.
